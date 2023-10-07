@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  margin-top: 250px;
+}
+
+#container {
+  background-color: rgb(0, 0, 0);
+  color: cyan;
+  height: 100px;
+  width: 400px;
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 4px 20%;
+  box-shadow: 0 0 30px cyan;
+  border: solid 2px;
+  font-size: 90px;
+}/*# sourceMappingURL=reloj.css.map */
